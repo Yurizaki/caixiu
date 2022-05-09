@@ -1,0 +1,3 @@
+[submodule "caixiu-backend"]
+	path = caixiu-backend
+	url = https://github.com/Yurizaki/caixiu-backend
