@@ -4,3 +4,6 @@
 [submodule "caixiu-private"]
 	path = caixiu-private
 	url = https://github.com/Yurizaki/caixiu-private.git
+[submodule "caixiu-public"]
+	path = caixiu-public
+	url = https://github.com/Yurizaki/caixiu-public.git
