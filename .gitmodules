@@ -7,3 +7,7 @@
 [submodule "caixiu-public"]
 	path = caixiu-public
 	url = https://github.com/Yurizaki/caixiu-public.git
+[submodule "caixiu-db"]
+	path = caixiu-db
+	url = https://github.com/Yurizaki/caixiu-db.git
+
