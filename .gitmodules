@@ -11,3 +11,6 @@
 	path = caixiu-db
 	url = https://github.com/Yurizaki/caixiu-db.git
 
+[submodule "caixiu-aws"]
+	path = caixiu-aws
+	url = https://github.com/Yurizaki/caixiu-aws.git
