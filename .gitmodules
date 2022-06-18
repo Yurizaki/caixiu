@@ -14,3 +14,6 @@
 [submodule "caixiu-aws"]
 	path = caixiu-aws
 	url = https://github.com/Yurizaki/caixiu-aws.git
+[submodule "caixiu-resources"]
+	path = caixiu-resources
+	url = https://github.com/Yurizaki/caixiu-resources
