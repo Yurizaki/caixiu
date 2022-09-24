@@ -17,3 +17,6 @@
 [submodule "caixiu-resources"]
 	path = caixiu-resources
 	url = https://github.com/Yurizaki/caixiu-resources
+[submodule "caixiu-blog"]
+	path = caixiu-blog
+	url = https://github.com/Yurizaki/caixiu-blog.git
